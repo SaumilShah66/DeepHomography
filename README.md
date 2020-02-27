@@ -12,7 +12,7 @@ Python3.5
 -- ImgUtils
 
 ## DataSet
-You can download the MS-COCO dataset from (http://cocodataset.org/#home)[here]. Place your data on the Data folder alongside Code folder.
+You can download the MS-COCO dataset from [here](http://cocodataset.org/#home). Place your data on the Data folder alongside Code folder.
 
 ## How to run
 
